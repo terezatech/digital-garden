@@ -7,7 +7,7 @@ This is a digital garden using Tereza's tools. We're using the [zettel](https://
 To get started, clone the repo and install the dependencies:
 
 ```bash
-git clone https://github.com/terezatech/digital-garder.git
+git clone https://github.com/terezatech/digital-garden.git
 cd digital-garden
 yarn
 ```
