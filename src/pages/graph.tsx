@@ -19,7 +19,7 @@ export const getStaticProps = async () => {
 const GraphPage = ({
   graphData,
 }: InferGetStaticPropsType<typeof getStaticProps>) => {
-  return <Graph graphData={graphData} width={600} height={600} />;
+  return <Graph graphData={graphData} width={1000} height={600} />;
 };
 
 export default GraphPage;
