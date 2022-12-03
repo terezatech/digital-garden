@@ -1252,10 +1252,10 @@
     react-force-graph-3d "^1.21.15"
     three-spritetext "^1.6.5"
 
-"@tereza-tech/zettel@^0.11.2":
-  version "0.11.2"
-  resolved "https://registry.yarnpkg.com/@tereza-tech/zettel/-/zettel-0.11.2.tgz#17b14c77d158b216f5fc169b308986632991eb7d"
-  integrity sha512-PBapC/RQJP0LDShyCqY87gxKdXPrpQq/6gN52PNp7LHTO8nG3AvRnhrEPmZLgAVuWKrvnHqD12X7ctM+0Oq/hg==
+"@tereza-tech/zettel@^0.11.3":
+  version "0.11.3"
+  resolved "https://registry.yarnpkg.com/@tereza-tech/zettel/-/zettel-0.11.3.tgz#1b33eca845d1af9f14b965faf332e31e71cfaef3"
+  integrity sha512-jkTr8Jmd6a7RCVwhn+XsjAypGHuTo1EgcQf9KHnQJ3Qe2lXhlh3ZwrhUlYWe+l2bS1BthPO2sjrFoPy/ft6dxA==
   dependencies:
     "@ttoss/config" "^1.20.0"
     change-case "^4.1.2"
