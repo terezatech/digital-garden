@@ -10,6 +10,8 @@ export const Layout = ({ children }: { children: React.ReactNode }) => {
           <Link href="/">Home</Link>
           {' | '}
           <Link href="/graph">Graph</Link>
+          {' | '}
+          <Link href="/flashcard">Flashcard</Link>
         </nav>
       </header>
       <main>{children}</main>
