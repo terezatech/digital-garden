@@ -1,5 +1,4 @@
 import { Post } from '@tereza-tech/zettel';
-import { PostSummary } from './PostSummary';
 import { Recommendations } from './Recommendations';
 
 export const PostPage = ({ post }: { post: Post }) => {
