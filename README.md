@@ -1,3 +1,5 @@
+This repository is archived. Please visit our new repository at [https://github.com/terezatech/tereza-tech/tree/main/apps/digital-garden](https://github.com/terezatech/tereza-tech/tree/main/apps/digital-garden).
+
 # Digital Garden
 
 This is a digital garden using Tereza's tools. We're using the [zettel](https://github.com/terezatech/tereza-tech/tree/main/packages/zettel) package as the engine of our Zettelkasten notes. The notes are written in markdown and are stored in the `notes` directory. The notes are then compiled into a static site using [Next.js](https://nextjs.org/).
